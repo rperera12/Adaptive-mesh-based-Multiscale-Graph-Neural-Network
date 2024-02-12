@@ -1,7 +1,7 @@
 # Center crack cases
 
 ## Phase field versus Multiscale GNN - Predicted damage field 
-![Sample Animation](CenterCrack/CenterCrack_cPhi_sim_20.gif "Phase-field VS. Multiscale GNN: Predicted damage field")
+![Sample Animation](CenterCrack_cPhi_sim_20.gif "Phase-field VS. Multiscale GNN: Predicted damage field")
 
 ## Maximum error of predicted damage field for entire test dataset
 ![Sample Animation](cPhi_CenterCrack_max_error.png "Predicted y-displacement field max error")
