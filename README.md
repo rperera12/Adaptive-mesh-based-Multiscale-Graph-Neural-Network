@@ -1,7 +1,7 @@
 # Adaptive-mesh-based-Multiscale-Graph-Neural-Network
 
 
-![Sample Animation](Supplementary_Figure_3.gif "Phase-field VS. ADAPT-GNN")
+![Sample Animation](LeftEdge_cPhi_sim_3.gif "Phase-field VS. Multiscale GNN: Predicted damage field")
 
 Should you find this repository as a useful tool for research or application, please kindly cite the original article [Dynamic and adaptive mesh-based graph neural network framework for simulating displacement and crack fields in phase field models](https://arxiv.org/abs/2208.14364v2)
 
