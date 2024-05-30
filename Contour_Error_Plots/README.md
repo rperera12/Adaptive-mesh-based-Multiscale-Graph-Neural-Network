@@ -1,4 +1,4 @@
-# Contour Error Plots --> % Errors (|Predicted - Truth| / Truth) * 100 
+# Contour Error Plots --> % Errors 
 
 ## FSR vs TSR vs SSR 
 ![Sample Animation](Multiscale_Contour_Error.png "Phase-field VS. Multiscale GNN: Predicted damage field")
