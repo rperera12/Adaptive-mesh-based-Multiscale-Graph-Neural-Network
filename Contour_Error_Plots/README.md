@@ -11,3 +11,6 @@
 
 ## Right-Edge-Crack Case 
 ![Sample Animation](Flipped_Contour_Error.png "Phase-field VS. Multiscale GNN: Predicted damage field")
+
+## Mode-I & Mode-II Loading Case 
+![Sample Animation](MI_II_Contour_Error.png "Phase-field VS. Multiscale GNN: Predicted damage field")
